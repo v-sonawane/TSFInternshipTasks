@@ -1,4 +1,4 @@
-# The Sparks Foundation Internship Tasks
+# The Sparks Foundation DS/ML Internship Tasks
 
 # Task 2 - To Explore Supervised Machine Learning
 
